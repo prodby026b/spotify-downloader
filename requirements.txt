@@ -1,0 +1,6 @@
+spotipy>=2.24.0
+yt-dlp[default]
+mutagen>=1.47.0
+rich>=13.7.0
+requests>=2.31.0
+customtkinter>=5.2.0
